@@ -25,6 +25,8 @@ A ~75–90 minute Foundations session: what generative AI actually is (in plain 
 ## Part of the AI Enablement Playbook series
 
 - [AI Enablement Playbook](https://github.com/DinaElSawah/ai-enablement-playbook) — the strategy layer (needs assessment, tiered curriculum, facilitator guide)
+- - [AI Adoption Scorecard](https://github.com/DinaElSawah/AI-adoption-scorecard)
+- - [LLM Evaluation & Safety Harness](https://github.com/DinaElSawah/LLM-evaluation-safety-harness) — the technical proof behind the evaluation claims in this portfolio
 - **GenAI Onboarding Workshop Kit** *(this repo)* — the Tier 1 session, ready to deliver
 - AI Adoption Scorecard — measuring training effectiveness and sustained adoption *(coming soon)*
 
